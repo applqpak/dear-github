@@ -12,3 +12,5 @@ You're here to sign the letter, are you? Let's get started!
 4. Click New Pull Request after you've compared the changes, then submit it!
 
 You're done. Thanks for helping us out, and help stopping other admin rights abusers.
+
+@applqpak
